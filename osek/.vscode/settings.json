@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "aaa_gic.h": "c",
+        "aaa_timer.h": "c",
+        "aaa_task.h": "c",
+        "aaa_handler.h": "c",
+        "os_task.h": "c",
+        "integration.h": "c",
+        "os_core.h": "c",
+        "platform_lib.h": "c",
+        "inthandle.h": "c",
+        "aaa_print.h": "c",
+        "aaa_queue.h": "c",
+        "os_task_cpu.h": "c",
+        "os.h": "c",
+        "aaa_artke_top.h": "c",
+        "aaa_type.h": "c",
+        "aaa_clock.h": "c",
+        "aaa_irqs-hw.h": "c",
+        "aaa_vic.h": "c",
+        "aaa_semphr.h": "c"
+    }
+}
